@@ -1,3 +1,5 @@
+If you fork this run npm install to pull all necessary packages. Once you do that fillout the chat engine and firebase credential in the .env.sample then rename to .env. Finally, run npm start to run the app.
+
 # Unichat Application
 
 ![Chat Application](https://i.ibb.co/GJwyy9m/Bv9-Js3-QLOLY-HD.jpg)
